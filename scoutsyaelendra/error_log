@@ -1,0 +1,19 @@
+[25-Oct-2015 12:07:22 Asia/Jakarta] PHP Warning:  include(../josys/koneksi.php): failed to open stream: No such file or directory in /home/tokoroha/public_html/inc/databank.php on line 2
+[25-Oct-2015 12:07:22 Asia/Jakarta] PHP Warning:  include(../josys/koneksi.php): failed to open stream: No such file or directory in /home/tokoroha/public_html/inc/databank.php on line 2
+[25-Oct-2015 12:07:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '../josys/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tokoroha/public_html/inc/databank.php on line 2
+[26-Oct-2015 08:17:57 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[29-Oct-2015 10:23:45 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[29-Oct-2015 10:24:11 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[29-Oct-2015 10:24:15 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[29-Oct-2015 10:24:18 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[04-Nov-2015 17:32:22 Asia/Jakarta] PHP Warning:  include(../josys/koneksi.php): failed to open stream: No such file or directory in /home/tokoroha/public_html/inc/databank.php on line 2
+[04-Nov-2015 17:32:22 Asia/Jakarta] PHP Warning:  include(../josys/koneksi.php): failed to open stream: No such file or directory in /home/tokoroha/public_html/inc/databank.php on line 2
+[04-Nov-2015 17:32:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '../josys/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tokoroha/public_html/inc/databank.php on line 2
+[12-Nov-2015 04:40:07 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[12-Nov-2015 05:00:56 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[28-Nov-2015 05:44:01 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[01-Dec-2015 08:34:58 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[18-Dec-2015 08:51:56 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[18-Dec-2015 08:52:19 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[18-Dec-2015 08:52:22 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9
+[18-Dec-2015 08:52:25 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9

@@ -1,0 +1,916 @@
+[26-Jun-2014 17:29:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting '(' in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 110
+[26-Jun-2014 17:29:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting '(' in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 110
+[27-Jun-2014 16:51:32 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/6IMG_0064.jpg): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[27-Jun-2014 16:51:32 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_6IMG_0064.jpg): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[30-Jun-2014 13:40:38 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/41THE): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[30-Jun-2014 13:40:38 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_41THE): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[30-Jun-2014 14:47:43 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[30-Jun-2014 14:47:43 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[30-Jun-2014 14:47:43 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[30-Jun-2014 14:47:43 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[30-Jun-2014 14:47:43 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[30-Jun-2014 14:47:43 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[30-Jun-2014 14:47:43 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[30-Jun-2014 14:47:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 96
+[30-Jun-2014 14:59:06 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[30-Jun-2014 14:59:06 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[30-Jun-2014 14:59:06 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[30-Jun-2014 14:59:06 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[30-Jun-2014 14:59:06 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[30-Jun-2014 14:59:06 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[30-Jun-2014 14:59:06 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[30-Jun-2014 14:59:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 96
+[30-Jun-2014 14:59:23 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/14): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[30-Jun-2014 14:59:23 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_14): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[02-Jul-2014 15:58:54 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/12WOW): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[02-Jul-2014 15:58:54 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_12WOW): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[08-Jul-2014 15:06:54 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[08-Jul-2014 15:06:54 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[08-Jul-2014 15:06:54 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[08-Jul-2014 15:06:54 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[08-Jul-2014 15:06:54 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[08-Jul-2014 15:06:54 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[08-Jul-2014 15:06:54 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[08-Jul-2014 15:06:54 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[08-Jul-2014 16:19:58 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[08-Jul-2014 16:19:58 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[08-Jul-2014 16:19:58 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[08-Jul-2014 16:19:58 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[08-Jul-2014 16:19:58 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[08-Jul-2014 16:19:58 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[08-Jul-2014 16:19:58 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Jul-2014 15:35:16 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[18-Jul-2014 15:35:16 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[18-Jul-2014 15:35:16 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[18-Jul-2014 15:35:16 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[18-Jul-2014 15:35:16 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[18-Jul-2014 15:35:16 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[18-Jul-2014 15:35:16 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Jul-2014 15:35:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[18-Jul-2014 15:59:30 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[18-Jul-2014 15:59:30 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[18-Jul-2014 15:59:30 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[18-Jul-2014 15:59:30 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[18-Jul-2014 15:59:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[18-Jul-2014 15:59:30 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[18-Jul-2014 15:59:30 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Jul-2014 15:59:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[18-Jul-2014 15:59:52 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/14MUSIC): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[18-Jul-2014 15:59:52 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_14MUSIC): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[15-Aug-2014 13:55:24 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[15-Aug-2014 13:55:24 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[15-Aug-2014 13:55:24 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[15-Aug-2014 13:55:24 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[15-Aug-2014 13:55:24 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[15-Aug-2014 13:55:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[15-Aug-2014 13:55:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[15-Aug-2014 13:55:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[18-Aug-2014 11:00:27 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[18-Aug-2014 11:00:27 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[18-Aug-2014 11:00:27 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[18-Aug-2014 11:00:27 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[18-Aug-2014 11:00:27 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[18-Aug-2014 11:00:27 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[18-Aug-2014 11:00:27 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Aug-2014 11:00:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[18-Aug-2014 11:33:55 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[18-Aug-2014 11:33:55 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[18-Aug-2014 11:33:55 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[18-Aug-2014 11:33:55 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[18-Aug-2014 11:33:55 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[18-Aug-2014 11:33:55 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[18-Aug-2014 11:33:55 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Aug-2014 11:33:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[18-Aug-2014 11:39:33 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[18-Aug-2014 11:39:33 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[18-Aug-2014 11:39:33 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[18-Aug-2014 11:39:33 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[18-Aug-2014 11:39:33 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[18-Aug-2014 11:39:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[18-Aug-2014 11:39:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Aug-2014 11:39:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[18-Aug-2014 11:46:32 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/85): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[18-Aug-2014 11:46:32 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_85): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[29-Aug-2014 13:41:26 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[29-Aug-2014 13:41:26 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[29-Aug-2014 13:41:26 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[29-Aug-2014 13:41:26 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[29-Aug-2014 13:41:26 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[29-Aug-2014 13:41:26 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[29-Aug-2014 13:41:26 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[29-Aug-2014 13:41:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[30-Aug-2014 13:14:59 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/97): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[30-Aug-2014 13:14:59 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_97): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[03-Sep-2014 14:25:39 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[03-Sep-2014 14:25:39 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[03-Sep-2014 14:25:39 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[03-Sep-2014 14:25:39 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[03-Sep-2014 14:25:39 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[03-Sep-2014 14:25:39 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[03-Sep-2014 14:25:39 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[03-Sep-2014 14:25:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[12-Sep-2014 14:56:17 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[12-Sep-2014 14:56:17 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[12-Sep-2014 14:56:17 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[12-Sep-2014 14:56:17 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[12-Sep-2014 14:56:17 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[12-Sep-2014 14:56:17 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[12-Sep-2014 14:56:17 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[12-Sep-2014 14:56:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[12-Sep-2014 16:20:19 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/2misson): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[12-Sep-2014 16:20:19 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_2misson): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[12-Sep-2014 16:40:48 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[12-Sep-2014 16:40:48 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[12-Sep-2014 16:40:48 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[12-Sep-2014 16:40:48 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[12-Sep-2014 16:40:48 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[12-Sep-2014 16:40:48 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[12-Sep-2014 16:40:48 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[12-Sep-2014 16:40:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[13-Sep-2014 13:15:59 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/34SUPER): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[13-Sep-2014 13:15:59 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_34SUPER): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[17-Sep-2014 13:56:16 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[17-Sep-2014 13:56:16 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[17-Sep-2014 13:56:16 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[17-Sep-2014 13:56:16 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[17-Sep-2014 13:56:16 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[17-Sep-2014 13:56:16 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[17-Sep-2014 13:56:16 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[17-Sep-2014 13:56:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[17-Sep-2014 13:57:14 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/8): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[17-Sep-2014 13:57:14 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_8): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[22-Sep-2014 10:14:19 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[22-Sep-2014 10:14:19 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[22-Sep-2014 10:14:19 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[22-Sep-2014 10:14:19 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[22-Sep-2014 10:14:19 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[22-Sep-2014 10:14:19 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[22-Sep-2014 10:14:19 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[22-Sep-2014 10:14:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[22-Sep-2014 10:14:40 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[22-Sep-2014 10:14:40 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[22-Sep-2014 10:14:40 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[22-Sep-2014 10:14:40 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[22-Sep-2014 10:14:40 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[22-Sep-2014 10:14:40 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[22-Sep-2014 10:14:40 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[22-Sep-2014 10:14:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[22-Sep-2014 10:15:45 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/63): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[22-Sep-2014 10:15:45 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_63): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[22-Sep-2014 10:15:50 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/11): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[22-Sep-2014 10:15:50 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_11): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[22-Sep-2014 16:33:08 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/92UU): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[22-Sep-2014 16:33:08 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_92UU): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[23-Sep-2014 13:54:16 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/61PANDUAN): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[23-Sep-2014 13:54:16 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_61PANDUAN): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[23-Sep-2014 15:08:55 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[23-Sep-2014 15:08:55 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[23-Sep-2014 15:08:55 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[23-Sep-2014 15:08:55 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[23-Sep-2014 15:08:55 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[23-Sep-2014 15:08:55 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[23-Sep-2014 15:08:55 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[23-Sep-2014 15:08:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 10:32:33 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/81KOMPILASI): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[25-Sep-2014 10:32:33 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_81KOMPILASI): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[25-Sep-2014 11:51:01 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 11:51:01 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 11:51:01 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 11:51:01 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 11:51:01 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 11:51:01 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 11:51:01 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 11:51:01 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 12:04:35 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 12:04:35 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 12:04:35 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 12:04:35 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 12:04:35 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 12:04:35 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 12:04:35 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 12:04:35 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 13:21:35 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 13:21:35 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 13:21:35 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 13:21:35 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 13:21:35 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 13:21:35 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 13:21:35 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 13:21:35 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 13:42:06 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 13:42:06 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 13:42:06 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 13:42:06 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 13:42:06 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 13:42:06 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 13:42:06 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 13:42:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 19:52:06 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 19:52:06 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 19:52:06 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 19:52:06 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 19:52:06 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 19:52:06 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 19:52:06 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 19:52:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 21:55:59 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 21:55:59 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 21:55:59 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 21:55:59 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 21:55:59 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 21:55:59 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 21:55:59 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 21:55:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 21:58:55 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 21:58:55 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 21:58:55 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 21:58:55 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 21:58:55 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 21:58:55 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 21:58:55 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 21:58:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 21:59:28 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/62): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[25-Sep-2014 21:59:28 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_62): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[25-Sep-2014 22:01:58 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 22:01:58 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 22:01:58 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 22:01:58 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 22:01:58 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 22:01:58 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 22:01:58 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 22:01:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 22:09:36 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 22:09:36 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 22:09:36 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 22:09:36 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 22:09:36 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 22:09:36 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 22:09:36 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 22:09:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 22:15:15 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 22:15:15 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 22:15:15 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 22:15:15 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 22:15:15 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 22:15:15 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 22:15:15 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 22:15:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[25-Sep-2014 22:27:50 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[25-Sep-2014 22:27:50 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[25-Sep-2014 22:27:50 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[25-Sep-2014 22:27:50 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[25-Sep-2014 22:27:50 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[25-Sep-2014 22:27:50 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[25-Sep-2014 22:27:50 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[25-Sep-2014 22:27:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 07:21:18 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 07:21:18 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 07:21:18 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 07:21:18 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 07:21:18 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 07:21:18 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 07:21:18 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 07:21:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 07:25:59 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 07:25:59 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 07:25:59 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 07:25:59 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 07:25:59 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 07:25:59 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 07:25:59 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 07:25:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 07:29:15 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 07:29:15 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 07:29:15 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 07:29:15 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 07:29:15 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 07:29:15 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 07:29:15 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 07:29:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 07:32:11 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 07:32:11 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 07:32:11 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 07:32:11 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 07:32:11 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 07:32:11 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 07:32:11 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 07:32:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 07:36:21 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 07:36:21 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 07:36:21 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 07:36:21 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 07:36:21 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 07:36:21 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 07:36:21 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 07:36:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 07:39:45 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 07:39:45 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 07:39:45 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 07:39:45 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 07:39:45 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 07:39:45 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 07:39:45 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 07:39:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 09:17:04 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 09:17:04 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 09:17:04 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 09:17:04 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 09:17:04 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 09:17:04 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 09:17:04 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 09:17:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 09:40:14 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 09:40:14 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 09:40:14 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 09:40:14 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 09:40:14 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 09:40:14 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 09:40:14 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 09:40:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 10:11:42 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 10:11:42 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 10:11:42 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 10:11:42 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 10:11:42 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 10:11:42 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 10:11:42 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 10:11:42 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 10:29:29 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 10:29:29 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 10:29:29 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 10:29:29 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 10:29:29 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 10:29:29 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 10:29:29 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 10:29:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 10:36:14 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 10:36:14 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 10:36:14 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 10:36:14 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 10:36:14 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 10:36:14 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 10:36:14 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 10:36:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 11:04:34 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 11:04:34 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 11:04:34 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 11:04:34 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 11:04:34 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 11:04:34 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 11:04:34 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 11:04:34 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 11:07:38 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 11:07:38 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 11:07:38 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 11:07:38 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 11:07:38 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 11:07:38 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 11:07:38 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 11:07:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 11:15:53 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 11:15:53 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 11:15:53 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 11:15:53 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 11:15:53 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 11:15:53 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 11:15:53 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 11:15:53 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 11:20:26 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 11:20:26 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 11:20:26 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 11:20:26 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 11:20:26 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 11:20:26 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 11:20:26 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 11:20:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 11:22:37 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 11:22:37 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 11:22:37 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 11:22:37 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 11:22:37 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 11:22:37 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 11:22:37 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 11:22:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 11:26:32 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 11:26:32 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 11:26:32 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 11:26:32 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 11:26:32 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 11:26:32 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 11:26:32 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 11:26:32 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 11:49:30 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 11:49:30 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 11:49:30 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 11:49:30 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 11:49:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 11:49:30 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 11:49:30 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 11:49:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 11:49:50 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/78): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[26-Sep-2014 11:49:50 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_78): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[26-Sep-2014 13:08:31 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 13:08:31 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 13:08:31 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 13:08:31 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 13:08:31 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 13:08:31 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 13:08:31 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 13:08:31 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 14:27:24 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 14:27:24 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 14:27:24 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 14:27:24 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 14:27:24 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 14:27:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 14:27:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 14:27:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 14:34:26 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 14:34:26 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 14:34:26 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 14:34:26 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 14:34:26 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 14:34:26 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 14:34:26 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 14:34:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 14:34:35 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/43): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[26-Sep-2014 14:34:35 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_43): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[26-Sep-2014 14:36:28 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 14:36:28 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 14:36:28 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 14:36:28 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 14:36:28 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 14:36:28 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 14:36:28 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 14:36:28 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 14:37:08 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 14:37:08 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 14:37:08 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 14:37:08 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 14:37:08 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 14:37:08 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 14:37:08 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 14:37:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 14:37:20 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/42): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[26-Sep-2014 14:37:20 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_42): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[26-Sep-2014 15:17:32 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 15:17:32 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 15:17:32 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 15:17:32 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 15:17:32 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 15:17:32 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 15:17:32 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 15:17:32 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 15:54:36 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 15:54:36 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 15:54:36 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 15:54:36 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 15:54:36 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 15:54:36 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 15:54:36 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 15:54:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 16:08:33 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 16:08:33 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 16:08:33 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 16:08:33 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 16:08:33 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 16:08:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 16:08:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 16:08:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 16:10:12 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 16:10:12 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 16:10:12 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 16:10:12 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 16:10:12 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 16:10:12 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 16:10:12 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 16:10:12 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 16:40:44 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 16:40:44 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 16:40:44 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 16:40:44 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 16:40:44 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 16:40:44 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 16:40:44 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 16:40:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 16:48:33 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 16:48:33 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 16:48:33 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 16:48:33 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 16:48:33 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 16:48:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 16:48:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 16:48:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 16:56:15 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 16:56:15 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 16:56:15 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 16:56:15 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 16:56:15 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 16:56:15 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 16:56:15 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 16:56:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 17:12:50 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 17:12:50 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 17:12:50 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 17:12:50 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 17:12:50 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 17:12:50 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 17:12:50 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 17:12:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 17:24:48 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 17:24:48 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 17:24:48 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 17:24:48 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 17:24:48 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 17:24:48 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 17:24:48 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 17:24:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 17:26:24 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 17:26:24 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 17:26:24 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 17:26:24 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 17:26:24 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 17:26:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 17:26:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 17:26:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 17:28:04 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 17:28:04 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 17:28:04 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 17:28:04 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 17:28:04 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 17:28:04 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 17:28:04 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 17:28:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 17:37:14 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 17:37:14 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 17:37:14 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 17:37:14 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 17:37:14 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 17:37:14 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 17:37:14 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 17:37:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 17:37:23 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/73): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[26-Sep-2014 17:37:23 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_73): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[26-Sep-2014 18:05:45 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 18:05:45 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 18:05:45 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 18:05:45 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 18:05:45 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 18:05:45 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 18:05:45 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 18:05:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 18:13:25 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 18:13:25 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 18:13:25 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 18:13:25 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 18:13:25 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 18:13:25 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 18:13:25 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 18:13:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 18:23:48 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 18:23:48 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 18:23:48 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 18:23:48 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 18:23:48 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 18:23:48 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 18:23:48 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 18:23:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 18:36:38 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 18:36:38 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 18:36:38 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 18:36:38 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 18:36:38 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 18:36:38 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 18:36:38 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 18:36:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 18:57:51 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 18:57:51 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 18:57:51 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 18:57:51 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 18:57:51 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 18:57:51 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 18:57:51 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 18:57:51 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[26-Sep-2014 19:05:00 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Sep-2014 19:05:00 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Sep-2014 19:05:00 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Sep-2014 19:05:00 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Sep-2014 19:05:00 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Sep-2014 19:05:00 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Sep-2014 19:05:00 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Sep-2014 19:05:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[27-Sep-2014 10:02:57 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[27-Sep-2014 10:02:57 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[27-Sep-2014 10:02:57 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[27-Sep-2014 10:02:57 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[27-Sep-2014 10:02:57 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[27-Sep-2014 10:02:57 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[27-Sep-2014 10:02:57 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[27-Sep-2014 10:02:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[27-Sep-2014 10:05:28 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[27-Sep-2014 10:05:28 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[27-Sep-2014 10:05:28 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[27-Sep-2014 10:05:28 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[27-Sep-2014 10:05:28 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[27-Sep-2014 10:05:28 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[27-Sep-2014 10:05:28 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[27-Sep-2014 10:05:28 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[27-Sep-2014 11:39:59 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[27-Sep-2014 11:39:59 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[27-Sep-2014 11:39:59 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[27-Sep-2014 11:39:59 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[27-Sep-2014 11:39:59 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[27-Sep-2014 11:39:59 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[27-Sep-2014 11:39:59 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[27-Sep-2014 11:39:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[27-Sep-2014 11:41:58 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[27-Sep-2014 11:41:58 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[27-Sep-2014 11:41:58 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[27-Sep-2014 11:41:58 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[27-Sep-2014 11:41:58 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[27-Sep-2014 11:41:58 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[27-Sep-2014 11:41:58 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[27-Sep-2014 11:41:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[29-Sep-2014 10:02:12 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/2240): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[29-Sep-2014 10:02:12 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_2240): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[30-Sep-2014 15:04:59 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/72): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[30-Sep-2014 15:04:59 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_72): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[30-Sep-2014 15:06:00 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/32): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[30-Sep-2014 15:06:00 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_32): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[30-Sep-2014 15:08:19 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/88): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[30-Sep-2014 15:08:19 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_88): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[01-Oct-2014 11:27:13 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[01-Oct-2014 11:27:13 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[01-Oct-2014 11:27:13 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[01-Oct-2014 11:27:13 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[01-Oct-2014 11:27:13 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[01-Oct-2014 11:27:13 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[01-Oct-2014 11:27:13 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[01-Oct-2014 11:27:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[01-Oct-2014 11:50:27 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[01-Oct-2014 11:50:27 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[01-Oct-2014 11:50:27 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[01-Oct-2014 11:50:27 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[01-Oct-2014 11:50:27 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[01-Oct-2014 11:50:27 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[01-Oct-2014 11:50:27 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[01-Oct-2014 11:50:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[01-Oct-2014 11:51:37 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/94): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[01-Oct-2014 11:51:37 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_94): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[02-Oct-2014 10:53:40 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/11JUZ): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[02-Oct-2014 10:53:40 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_11JUZ): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[02-Oct-2014 11:27:14 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/38IMG_0004): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[02-Oct-2014 11:27:14 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_38IMG_0004): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[02-Oct-2014 11:54:59 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/1DUET): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[02-Oct-2014 11:54:59 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_1DUET): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[08-Oct-2014 14:05:46 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/35BUKU): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[08-Oct-2014 14:05:46 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_35BUKU): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[10-Oct-2014 18:15:35 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[10-Oct-2014 18:15:35 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[10-Oct-2014 18:15:35 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[10-Oct-2014 18:15:35 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[10-Oct-2014 18:15:35 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[10-Oct-2014 18:15:35 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[10-Oct-2014 18:15:35 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[10-Oct-2014 18:15:35 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[17-Oct-2014 16:15:17 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[17-Oct-2014 16:15:17 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[17-Oct-2014 16:15:17 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[17-Oct-2014 16:15:17 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[17-Oct-2014 16:15:17 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[17-Oct-2014 16:15:17 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[17-Oct-2014 16:15:17 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[17-Oct-2014 16:15:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[17-Oct-2014 16:15:21 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[17-Oct-2014 16:15:21 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[17-Oct-2014 16:15:21 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[17-Oct-2014 16:15:21 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[17-Oct-2014 16:15:21 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[17-Oct-2014 16:15:21 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[17-Oct-2014 16:15:21 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[17-Oct-2014 16:15:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[17-Oct-2014 16:15:32 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/66): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[17-Oct-2014 16:15:32 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_66): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[17-Oct-2014 16:26:10 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[17-Oct-2014 16:26:10 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[17-Oct-2014 16:26:10 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[17-Oct-2014 16:26:10 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[17-Oct-2014 16:26:10 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[17-Oct-2014 16:26:10 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[17-Oct-2014 16:26:10 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[17-Oct-2014 16:26:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[17-Oct-2014 16:26:15 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[17-Oct-2014 16:26:15 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[17-Oct-2014 16:26:15 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[17-Oct-2014 16:26:15 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[17-Oct-2014 16:26:15 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[17-Oct-2014 16:26:15 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[17-Oct-2014 16:26:15 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[17-Oct-2014 16:26:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[17-Oct-2014 16:26:34 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/20): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[17-Oct-2014 16:26:34 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_20): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[17-Oct-2014 16:34:45 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[17-Oct-2014 16:34:45 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[17-Oct-2014 16:34:45 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[17-Oct-2014 16:34:45 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[17-Oct-2014 16:34:45 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[17-Oct-2014 16:34:45 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[17-Oct-2014 16:34:45 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[17-Oct-2014 16:34:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[17-Oct-2014 16:42:41 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[17-Oct-2014 16:42:41 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[17-Oct-2014 16:42:41 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[17-Oct-2014 16:42:41 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[17-Oct-2014 16:42:41 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[17-Oct-2014 16:42:41 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[17-Oct-2014 16:42:41 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[17-Oct-2014 16:42:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[17-Oct-2014 16:50:57 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[17-Oct-2014 16:50:57 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[17-Oct-2014 16:50:57 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[17-Oct-2014 16:50:57 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[17-Oct-2014 16:50:57 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[17-Oct-2014 16:50:57 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[17-Oct-2014 16:50:57 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[17-Oct-2014 16:50:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[17-Oct-2014 16:57:58 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[17-Oct-2014 16:57:58 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[17-Oct-2014 16:57:58 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[17-Oct-2014 16:57:58 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[17-Oct-2014 16:57:58 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[17-Oct-2014 16:57:58 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[17-Oct-2014 16:57:58 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[17-Oct-2014 16:57:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[17-Oct-2014 17:11:04 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/91): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[17-Oct-2014 17:11:04 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_91): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[18-Oct-2014 13:44:23 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[18-Oct-2014 13:44:30 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[18-Oct-2014 13:44:30 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[18-Oct-2014 13:44:30 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[18-Oct-2014 13:44:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[18-Oct-2014 13:44:30 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[18-Oct-2014 13:44:30 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Oct-2014 13:44:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[18-Oct-2014 13:59:27 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[18-Oct-2014 13:59:27 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[18-Oct-2014 13:59:27 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[18-Oct-2014 13:59:27 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[18-Oct-2014 13:59:27 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[18-Oct-2014 13:59:27 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[18-Oct-2014 13:59:27 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Oct-2014 13:59:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[28-Oct-2014 13:42:00 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[28-Oct-2014 13:42:00 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[28-Oct-2014 13:42:00 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[28-Oct-2014 13:42:00 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[28-Oct-2014 13:42:00 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[28-Oct-2014 13:42:00 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[28-Oct-2014 13:42:00 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[28-Oct-2014 13:42:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[31-Oct-2014 10:54:17 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[31-Oct-2014 10:54:17 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[31-Oct-2014 10:54:17 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[31-Oct-2014 10:54:17 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[31-Oct-2014 10:54:17 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[31-Oct-2014 10:54:17 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[31-Oct-2014 10:54:17 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[31-Oct-2014 10:54:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[04-Nov-2014 09:46:10 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[04-Nov-2014 09:46:10 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[04-Nov-2014 09:46:10 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[04-Nov-2014 09:46:10 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[04-Nov-2014 09:46:10 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[04-Nov-2014 09:46:10 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[04-Nov-2014 09:46:10 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[04-Nov-2014 09:46:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 98
+[18-Nov-2014 14:13:06 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[18-Nov-2014 14:13:06 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[18-Nov-2014 14:13:06 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[18-Nov-2014 14:13:06 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[18-Nov-2014 14:13:06 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[18-Nov-2014 14:13:06 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[18-Nov-2014 14:13:06 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Nov-2014 14:13:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[18-Nov-2014 14:25:24 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[18-Nov-2014 14:25:24 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[18-Nov-2014 14:25:24 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[18-Nov-2014 14:25:24 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[18-Nov-2014 14:25:24 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[18-Nov-2014 14:25:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[18-Nov-2014 14:25:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Nov-2014 14:25:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[15-Dec-2014 17:05:32 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[15-Dec-2014 17:05:32 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[15-Dec-2014 17:05:32 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[15-Dec-2014 17:05:32 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[15-Dec-2014 17:05:32 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[15-Dec-2014 17:05:32 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[15-Dec-2014 17:05:32 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[09-Jan-2015 13:11:21 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[09-Jan-2015 13:11:21 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[09-Jan-2015 13:11:21 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[09-Jan-2015 13:11:21 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[09-Jan-2015 13:11:21 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[09-Jan-2015 13:11:21 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[09-Jan-2015 13:11:21 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[09-Jan-2015 13:11:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[06-Mar-2015 13:49:24 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[06-Mar-2015 13:49:24 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[06-Mar-2015 13:49:24 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[06-Mar-2015 13:49:24 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[06-Mar-2015 13:49:24 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[06-Mar-2015 13:49:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[06-Mar-2015 13:49:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[06-Mar-2015 13:49:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[06-Mar-2015 13:50:46 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/590490): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[06-Mar-2015 13:50:46 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_590490): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[07-Mar-2015 12:18:23 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[07-Mar-2015 12:18:23 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[07-Mar-2015 12:18:23 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[07-Mar-2015 12:18:23 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[07-Mar-2015 12:18:23 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[07-Mar-2015 12:18:23 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[07-Mar-2015 12:18:23 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[07-Mar-2015 12:18:23 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[09-Mar-2015 12:07:33 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[09-Mar-2015 12:07:33 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[09-Mar-2015 12:07:33 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[09-Mar-2015 12:07:33 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[09-Mar-2015 12:07:33 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[09-Mar-2015 12:07:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[09-Mar-2015 12:07:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[09-Mar-2015 12:07:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[20-Mar-2015 12:24:44 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[20-Mar-2015 12:24:44 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[20-Mar-2015 12:24:44 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[20-Mar-2015 12:24:44 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[20-Mar-2015 12:24:44 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[20-Mar-2015 12:24:44 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[20-Mar-2015 12:24:44 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[20-Mar-2015 12:24:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[26-Mar-2015 10:18:36 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[26-Mar-2015 10:18:36 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[26-Mar-2015 10:18:36 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[26-Mar-2015 10:18:36 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[26-Mar-2015 10:18:36 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[26-Mar-2015 10:18:36 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[26-Mar-2015 10:18:36 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[26-Mar-2015 10:18:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[26-Mar-2015 10:21:20 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/449209): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[26-Mar-2015 10:21:20 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_449209): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[18-Apr-2015 13:15:00 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[18-Apr-2015 13:15:00 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[18-Apr-2015 13:15:00 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[18-Apr-2015 13:15:00 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[18-Apr-2015 13:15:00 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[18-Apr-2015 13:15:00 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[18-Apr-2015 13:15:00 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[18-Apr-2015 13:15:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[22-Apr-2015 10:42:42 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[22-Apr-2015 10:42:42 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[22-Apr-2015 10:42:42 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[22-Apr-2015 10:42:42 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[22-Apr-2015 10:42:42 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[22-Apr-2015 10:42:42 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[22-Apr-2015 10:42:42 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[22-Apr-2015 10:42:42 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[22-Apr-2015 10:47:01 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/468250): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[22-Apr-2015 10:47:01 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_468250): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[03-Jun-2015 10:16:24 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[03-Jun-2015 10:16:24 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[03-Jun-2015 10:16:24 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[03-Jun-2015 10:16:24 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[03-Jun-2015 10:16:24 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[03-Jun-2015 10:16:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[03-Jun-2015 10:16:24 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[03-Jun-2015 10:16:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[03-Jun-2015 10:16:33 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[03-Jun-2015 10:16:33 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[03-Jun-2015 10:16:33 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[03-Jun-2015 10:16:33 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[03-Jun-2015 10:16:33 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[03-Jun-2015 10:16:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[03-Jun-2015 10:16:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[03-Jun-2015 10:16:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[03-Jun-2015 10:18:06 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/846104): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[03-Jun-2015 10:18:06 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_846104): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[24-Aug-2015 09:44:08 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[24-Aug-2015 09:44:08 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[24-Aug-2015 09:44:08 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[24-Aug-2015 09:44:08 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[24-Aug-2015 09:44:08 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[24-Aug-2015 09:44:08 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[24-Aug-2015 09:44:08 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[24-Aug-2015 09:44:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[24-Aug-2015 17:01:25 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/908010): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[24-Aug-2015 17:01:26 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_908010): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20
+[08-Sep-2015 16:16:23 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 21
+[08-Sep-2015 16:16:23 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 22
+[08-Sep-2015 16:16:23 Asia/Jakarta] PHP Warning:  Division by zero in /home/solusibu/public_html/josys/fungsi_thumb.php on line 27
+[08-Sep-2015 16:16:23 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/solusibu/public_html/josys/fungsi_thumb.php on line 30
+[08-Sep-2015 16:16:23 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 31
+[08-Sep-2015 16:16:23 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 48
+[08-Sep-2015 16:16:23 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/solusibu/public_html/josys/fungsi_thumb.php on line 49
+[08-Sep-2015 16:16:23 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/josys/fungsi_thumb.php:21) in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 100
+[08-Sep-2015 16:18:00 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/860721): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 19
+[08-Sep-2015 16:18:00 Asia/Jakarta] PHP Warning:  unlink(../../../joimg/buku/s_860721): No such file or directory in /home/solusibu/public_html/jsadm01sb/modul/mod_produk/aksi_produk.php on line 20

@@ -1,0 +1,8 @@
+[05-May-2015 19:19:36 Asia/Jakarta] PHP Warning:  file_exists() expects parameter 1 to be a valid path, array given in /home/solusibu/public_html/kcfinder/core/uploader.php on line 592
+[05-May-2015 19:19:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/kcfinder/core/uploader.php:592) in /home/solusibu/public_html/kcfinder/core/uploader.php on line 603
+[24-May-2015 08:35:31 Asia/Jakarta] PHP Warning:  file_exists() expects parameter 1 to be a valid path, array given in /home/solusibu/public_html/kcfinder/core/uploader.php on line 592
+[24-May-2015 08:35:32 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/kcfinder/core/uploader.php:592) in /home/solusibu/public_html/kcfinder/core/uploader.php on line 603
+[26-May-2015 22:20:45 Asia/Jakarta] PHP Warning:  file_exists() expects parameter 1 to be a valid path, array given in /home/solusibu/public_html/kcfinder/core/uploader.php on line 592
+[26-May-2015 22:20:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/kcfinder/core/uploader.php:592) in /home/solusibu/public_html/kcfinder/core/uploader.php on line 603
+[26-May-2015 22:20:45 Asia/Jakarta] PHP Warning:  file_exists() expects parameter 1 to be a valid path, array given in /home/solusibu/public_html/kcfinder/core/uploader.php on line 592
+[26-May-2015 22:20:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/solusibu/public_html/kcfinder/core/uploader.php:592) in /home/solusibu/public_html/kcfinder/core/uploader.php on line 603

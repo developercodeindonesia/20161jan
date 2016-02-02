@@ -1,0 +1,2 @@
+[30-Sep-2015 15:14:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '/' in /home/tokoroha/public_html/@aDm09TbCp/modul/mod_produk/produk.php on line 462
+[11-Nov-2015 15:07:24 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/tokoroha/public_html/josys/koneksi.php on line 9

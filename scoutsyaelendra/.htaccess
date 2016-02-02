@@ -1,0 +1,70 @@
+RewriteEngine on
+
+RewriteRule ^perlengkapan-pramuka$ media.php?module=home [L]
+
+RewriteRule ^profil.html$ media.php?module=profil [L]
+
+RewriteRule ^privacy.html$ media.php?module=privacy [L]
+
+#testimoni
+RewriteRule ^testinomi-perlengkapan-pramuka-pmr-sekolah-pecinta-alam$ media.php?module=testimonial [L]
+
+#event
+RewriteRule ^event-perlengkapan-pramuka-pmr-sekolah-pecinta-alam$ media.php?module=event [L]
+RewriteRule ^detail-event-scoutsyaelendra-([0-9]+)$ media.php?module=detail-event&id=$1 [L]
+RewriteRule ^event-scoutsyaelendra-halaman-([0-9]+)\.html$ media.php?module=event-scoutsyaelendra&halaman=$1 [L]
+
+#produk
+RewriteRule ^produk-perlengkapan-pramuka-pmr-sekolah-pecinta-alam$ media.php?module=allProduk [L]
+RewriteRule ^produk-halaman-([0-9]+)$ media.php?module=allProduk&halaman=$1 [L]
+RewriteRule ^produk-([0-9]+)-(.*)\.html$ media.php?module=detailproduk&id=$1 [L]
+
+#gallery
+RewriteRule ^foto-perlengkapan-pramuka-pmr-sekolah-pecinta-alam$ media.php?module=gallery [L]
+RewriteRule ^gallery-(.*)$ media.php?module=detailGallery&id=$1 [L]
+
+#artikel
+RewriteRule ^artikel-perlengkapan-pramuka-pmr-sekolah-pecinta-alam$ media.php?module=artikel [L]
+RewriteRule ^detail-artikel-(.*)$ media.php?module=detail-artikel&id=$1 [L]
+
+
+#kategori
+RewriteRule ^([0-9]+)-kategori-(.*)$ media.php?module=kategori&id=$1 [L]
+RewriteRule ^([0-9]+)-kategorihalaman-([0-9]+)$ media.php?module=kategori&id=$1&halaman=$2 [L]
+
+#sub-kategori
+RewriteRule ^([0-9]+)-sub-kategori-(.*)$ media.php?module=sub-kategori&id=$1 [L]
+RewriteRule ^([0-9]+)-subkategorihalaman-([0-9]+)$ media.php?module=sub-kategori&id=$1&halaman=$2 [L]
+
+#new-release
+RewriteRule ^just-arrived$ media.php?module=new-release [L]
+RewriteRule ^just-arrived-halaman-([0-9]+)$ media.php?module=new-release&halaman=$1 [L]
+
+#best-seller
+RewriteRule ^best-seller$ media.php?module=best-seller [L]
+RewriteRule ^best-seller-halaman-([0-9]+)$ media.php?module=best-seller&halaman=$1 [L]
+
+#staticcontent
+RewriteRule ^cara-pesan-perlengkapan-pramuka-pmr-sekolah-pecinta-alam$ media.php?module=staticcontent&id=9 [L]
+RewriteRule ^kontak-kedai-perlengkapan-pramuka-pmr-sekolah-pecinta-alam$ media.php?module=staticcontent&id=5 [L]
+RewriteRule ^cara-pembayaran$ media.php?module=staticcontent&id=10 [L]
+RewriteRule ^profil-perlengkapan-pramuka-pmr-sekolah-pecinta-alam$ media.php?module=staticcontent&id=2 [L]
+RewriteRule ^promosi$ media.php?module=staticcontent&id=4 [L]
+
+RewriteRule ^login\.html$ media.php?module=login [L]
+RewriteRule ^prosesReg$ media.php?module=prosesReg [L]
+RewriteRule ^proses-login$ media.php?module=proses-login [L]
+
+#keranjang-belanja
+RewriteRule ^cart$ media.php?module=belanja [L]
+RewriteRule ^cart-step(.*)$ media.php?module=belanja&step=$1 [L]
+RewriteRule ^prosesTrans(.*)$ media.php?module=form_transaksi [L]
+RewriteRule ^konfirmasi(.*)$ media.php?module=konfirmasi [L]
+RewriteRule ^prosesKonf(.*)$ media.php?module=formkonfirmasi [L]
+
+RewriteRule ^download-perlengkapan-pramuka-pmr-sekolah-pecinta-alam$ media.php?module=download [L]
+
+#RewriteRule ^search$ media.php?module=search [L]
+#RewriteRule ^search-(.*)-halaman-([0-9]+)\.html$ media.php?module=search&kata=$1&halaman=$2 [L]
+
+ErrorDocument 404 /404.html
